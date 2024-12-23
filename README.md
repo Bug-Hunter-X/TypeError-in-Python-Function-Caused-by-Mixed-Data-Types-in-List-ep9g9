@@ -1,0 +1,2 @@
+# Python Bug: TypeError in calculate_average function
+This repository demonstrates a common Python bug involving type errors when performing arithmetic operations on lists containing mixed data types.  The `calculate_average` function fails when it encounters a non-numeric value within the input list.  The solution involves adding input validation to ensure that the list only contains numbers.
